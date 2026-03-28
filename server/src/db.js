@@ -16,10 +16,9 @@ export const hasDatabaseConfig = Boolean(process.env.DATABASE_URL);
 export const pool = hasDatabaseConfig
   ? new Pool({
       connectionString: process.env.DATABASE_URL,
-      ssl: process.env.DATABASE_URL.includes("railway.app")
-        || process.env.DATABASE_URL.includes("rlwy.net")
-        ? { rejectUnauthorized: false }
-        : false
+      ssl: {
+        rejectUnauthorized: false
+      }
     })
   : null;
 
@@ -34,7 +33,9 @@ function mapRowsByProduct(rows, key, valueSelector) {
     if (!grouped.has(row.product_id)) {
       grouped.set(row.product_id, []);
     }
-    grouped.get(row.product_id).push(valueSelector ? valueSelector(row) : row[key]);
+    grouped.get(row.product_id).push(
+      valueSelector ? valueSelector(row) : row[key]
+    );
   }
 
   return grouped;
