@@ -145,11 +145,6 @@ export async function initializeDatabase() {
 }
 
 async function seedDatabase() {
-  const countResult = await pool.query("SELECT COUNT(*)::int AS count FROM products");
-  if (countResult.rows[0].count > 0) {
-    return;
-  }
-
   const client = await pool.connect();
 
   try {
@@ -172,6 +167,23 @@ async function seedDatabase() {
       );
     }
 
+    await client.query(
+      `DELETE FROM product_images WHERE product_id = ANY($1::text[])`,
+      [seedProducts.map((product) => product.id)]
+    );
+    await client.query(
+      `DELETE FROM product_offers WHERE product_id = ANY($1::text[])`,
+      [seedProducts.map((product) => product.id)]
+    );
+    await client.query(
+      `DELETE FROM product_highlights WHERE product_id = ANY($1::text[])`,
+      [seedProducts.map((product) => product.id)]
+    );
+    await client.query(
+      `DELETE FROM product_specifications WHERE product_id = ANY($1::text[])`,
+      [seedProducts.map((product) => product.id)]
+    );
+
     for (const product of seedProducts) {
       await client.query(
         `INSERT INTO products (
@@ -182,7 +194,20 @@ async function seedDatabase() {
           $1, $2, $3, $4, $5,
           $6, $7, $8, $9, $10,
           $11, $12, $13
-        )`,
+        )
+        ON CONFLICT (id) DO UPDATE SET
+          category_id = EXCLUDED.category_id,
+          brand = EXCLUDED.brand,
+          title = EXCLUDED.title,
+          description = EXCLUDED.description,
+          current_price = EXCLUDED.current_price,
+          original_price = EXCLUDED.original_price,
+          rating = EXCLUDED.rating,
+          reviews_summary = EXCLUDED.reviews_summary,
+          assured_badge = EXCLUDED.assured_badge,
+          seller_name = EXCLUDED.seller_name,
+          delivery_text = EXCLUDED.delivery_text,
+          in_stock = EXCLUDED.in_stock`,
         [
           product.id,
           categoryIdFromName(product.category),

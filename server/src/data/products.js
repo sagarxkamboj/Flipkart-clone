@@ -12,9 +12,9 @@ export const products = [
     delivery: "Free delivery by tomorrow",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/1.webp",
-      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/2.webp",
-      "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/3.webp"
+      "https://m.media-amazon.com/images/I/71657TiFeHL._AC_UY218_.jpg",
+      "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UY218_.jpg",
+      "https://m.media-amazon.com/images/I/61f4dTush1L._AC_UY218_.jpg"
     ],
     offers: [
       "Bank Offer 10% instant discount on select cards",
@@ -49,9 +49,9 @@ export const products = [
     delivery: "Delivery in 2 days",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/12882840/pexels-photo-12882840.png?cs=srgb&dl=pexels-altman-12882840.jpg&fm=jpg",
-      "https://images.pexels.com/photos/12882840/pexels-photo-12882840.png?cs=srgb&dl=pexels-altman-12882840.jpg&fm=jpg",
-      "https://images.pexels.com/photos/12882840/pexels-photo-12882840.png?cs=srgb&dl=pexels-altman-12882840.jpg&fm=jpg"
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/f/g/v/-original-imahfw4desskhubr.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/y/s/v/-original-imahfz2tmtdwq8fv.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/l/r/2/-original-imahfz2tn9gqg4ey.jpeg?q=90"
     ],
     offers: [
       "Special price with up to Rs. 11,000 off",
@@ -86,9 +86,9 @@ export const products = [
     delivery: "Free delivery by Sunday",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
-      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/2.webp",
-      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/3.webp"
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSfO62RUWvvj2iT7YKOKI-jTn-YMl7vHwYmk2SyJhUGDhpr47FunP422UKnNQEC4tTl_nC7oI5anCtF83-vGiIo2g_YcH9jrQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRaRmw87yQXzG55WQGVN6FF_KrTP2ysZGRNq0CIFo0lBE9H7rMjsDZLaZmMzoCsdRrs0qoNkIpZbEsKFwDPkHcGtvE5j5QZKaEJibCyPAmSMJPUZ63DT03Rnw",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQMIk02dAsQhBhdNCXOkjY5sVE-Te968bqJn9WylOiB_1mEuZARUVgyj5py9AxTj1_UDlLUB7ljb45KWhMAnpOODF39VNJBp0ifuhITeftub5qXga9PEjKy"
     ],
     offers: [
       "5% cashback on Flipkart Axis Bank Card",
@@ -123,9 +123,9 @@ export const products = [
     delivery: "Free delivery",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp",
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/1.webp"
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTnqTYX76B6BKxQNBO7vdeidvYzrkwpfnIfuZN5YKCxVIINV9FotEZMUJjNv5tN0ctzz-5Ac-_em1EHGup06VWl02I383jMp9dvgeoONixCyw_fZdg_9_YEow",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy601YaBZYMorriFQYTM1WBZVrt36C_ly4W8DWrDD0hY35drnYkIryrZneiuU243LJhR5UQZ5BnGLVgZ4Aaw-eVwm-46NfyR-1WnhwEqEP9vzVr0miVPYjSQ",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTXak33Y5-ouL5Ca0r0PPdz4W9J1l_aKQYSzra836WuYuMjkIUacPXwNuTwheawOGPoxlkEPVrggbRrO4MybxvRhIo8l8nv5ss8D05SRtSKSkT7UYWnbJpe7MY"
     ],
     offers: [
       "Extra Rs. 2,500 off with bank offer",
@@ -160,9 +160,9 @@ export const products = [
     delivery: "Free delivery by tomorrow",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp",
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/2.webp",
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/3.webp"
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/headphone/d/k/j/-original-imagzuzzxqsqjgn8.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/headphone/7/y/r/-original-imagzuzzdysj7ugz.jpeg?q=90",
+      "https://rukminim2.flixcart.com/image/480/640/xif0q/headphone/d/k/j/-original-imagzuzzxqsqjgn8.jpeg?q=90"
     ],
     offers: [
       "Special price valid for limited period",
@@ -197,9 +197,9 @@ export const products = [
     delivery: "Free delivery in 2 days",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
-      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
-      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbZUpZgYcDYwQ0q8I31mUFqcL4y0FJ7vaWauHEomG9E2jpCiUZNmyDTAHoUowurhLC-TSo845ms9bTGF08oAbbc0oUYez5xQ",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQvAR-Iz4vcDeeCSw7GWlOhEJxszWX5F8YEkOsyMGXjbY6B8h3-g_c5Dgxa1rel7upyOvcSkLVc5yDgS_JEAtmK2pM2slBerg",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQFZ_Llxtf2regbU7sJVpvVr3VuUof9BdKMcxlZY3OURVDTUDdGEInszLUdRk7MektWcBFqw7_5K-qiNZAtnHkWfVcf969s"
     ],
     offers: [
       "Up to Rs. 4,000 off on exchange",
@@ -234,9 +234,9 @@ export const products = [
     delivery: "Free delivery on orders over Rs. 499",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp"
+      "https://cdn.runrepeat.com/storage/gallery/product_content/39314/nike-air-max-impact-4-review-19747135-main.jpg",
+      "https://cdn.runrepeat.com/storage/gallery/product_content/39314/nike-air-max-impact-4-lab-test-19747136-main.jpg",
+      "https://cdn.runrepeat.com/storage/gallery/product_content/39314/nike-air-max-impact-4-outsole-19747140-main.jpg"
     ],
     offers: [
       "Flat Rs. 500 off on first fashion order",
@@ -271,9 +271,9 @@ export const products = [
     delivery: "Free delivery by tomorrow",
     inStock: true,
     images: [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/1.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/2.webp",
-      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/3.webp"
+      "https://m.media-amazon.com/images/I/612Y27yuuZL.jpg",
+      "https://m.media-amazon.com/images/I/5187Yt6DHsL.jpg",
+      "https://m.media-amazon.com/images/I/61f-xJBnJkL.jpg"
     ],
     offers: [
       "Buy 2 or more and get extra 5% off",
@@ -308,9 +308,9 @@ export const products = [
     delivery: "Installation available",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/7587781/pexels-photo-7587781.jpeg?cs=srgb&dl=pexels-artbovich-7587781.jpg&fm=jpg",
-      "https://images.pexels.com/photos/7587781/pexels-photo-7587781.jpeg?cs=srgb&dl=pexels-artbovich-7587781.jpg&fm=jpg",
-      "https://images.pexels.com/photos/7587781/pexels-photo-7587781.jpeg?cs=srgb&dl=pexels-artbovich-7587781.jpg&fm=jpg"
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTB6qb_O0V9x_XC1z6cfF-53PfXWLhBut28JIPha2bYi4O6AV75woyuAHGgRZxjQ6ZVR2WYWu9kNMrs2OzjvPDB3Bh9kYxOs8p4i1eUzj9A",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTxgbGCJ_qxzabLu6UPBJTIFMggwTpAZ65V002rMO3ScE7dczxtF2s7_TOGuiTc2Dc1ThE6ffXGXlMfRLdIndlynJEnHvSMjyerblZ4xtBqEcB9MehBWyBoiw",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5sO8PexRIuGyVm9II7ZJeJBzWbwIQ_YV5-TLowDsWjtl5SGqkh5gSYH15qLM4B6OTcdCjzYpdIAGT17NeDSV87AnLI_ATIQhLP5RLwDlMjNvay3BKzw8i"
     ],
     offers: [
       "Free wall mount installation",
@@ -345,9 +345,9 @@ export const products = [
     delivery: "Free installation available",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/9515294/pexels-photo-9515294.jpeg?cs=srgb&dl=pexels-introspectivedsgn-9515294.jpg&fm=jpg",
-      "https://images.pexels.com/photos/9515294/pexels-photo-9515294.jpeg?cs=srgb&dl=pexels-introspectivedsgn-9515294.jpg&fm=jpg",
-      "https://images.pexels.com/photos/9515294/pexels-photo-9515294.jpeg?cs=srgb&dl=pexels-introspectivedsgn-9515294.jpg&fm=jpg"
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQDD6Ajog8k_ioR1pSPJnUn4zCt8CIOPqfAHBhqoSP5VIcf1A-nUqAfFXx6Uyp-TgP-BelHZ0s8a5Ydj118s3DmqbAbNKuQJNl0YBGhffFxqJPaXlL5vR6w1Sk",
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRCy6IiDotndClCdeH7vGYWDStPGqOcHGQuaeuma2-TJKEX6gyC2EO2Ky4HSEACCwrlvpoSnCmizGrzZqERWEUjG5p8Kcrh1I_Hg41V7OmSLf1eiSRZDK8V",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ4nOFrpIAgzyCgc3bUH9MJKPkg_cm4QD9yDC_cHPCy7LM5ATD9dmnZITFcDrZSULMHLWkp4EOA8IxJvJX1ITypaZ5RwCQ2Yf4DiccS9stoi_6tUzAonweg"
     ],
     offers: [
       "Up to Rs. 3,000 off on exchange",
@@ -382,9 +382,9 @@ export const products = [
     delivery: "Delivery in 5 days",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?cs=srgb&dl=pexels-artbovich-6527041.jpg&fm=jpg",
-      "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?cs=srgb&dl=pexels-artbovich-6527041.jpg&fm=jpg",
-      "https://images.pexels.com/photos/6527041/pexels-photo-6527041.jpeg?cs=srgb&dl=pexels-artbovich-6527041.jpg&fm=jpg"
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYgQqH9khgx9wOQTPGcF5GJ8bSd6puC5J4OUorz6uP8YTtYstUJkKUXZLHuIbJOZu1pSicgaFqmUJyX24jNGHOzzR3yf61",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQi-lfVI7YZAXsHaoifCdmknRHTjfRZb1qQafCClDLxvMzPTYt3njQrgxyyqUaQtAWudB0O9xyIXgNGZgEYWTg93-cbYIv1JqMy03-vyzt8TSB8iGtLq1xh",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQF2dvNmXLYzOQuZKukIiAuD1cimyj3yKxfZihNX3S6oci8gqCzai_Ag0wXmxv8oXFfesqk9hBvtp1hdyXGqUyNouEMauRqTNjkUe95A8EVEzd_51PEB4D5sQ"
     ],
     offers: [
       "Furniture protection plan available",
@@ -419,9 +419,9 @@ export const products = [
     delivery: "Free delivery in 3 days",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/21852582/pexels-photo-21852582.jpeg?cs=srgb&dl=pexels-casnafu-21852582.jpg&fm=jpg",
-      "https://images.pexels.com/photos/21852582/pexels-photo-21852582.jpeg?cs=srgb&dl=pexels-casnafu-21852582.jpg&fm=jpg",
-      "https://images.pexels.com/photos/21852582/pexels-photo-21852582.jpeg?cs=srgb&dl=pexels-casnafu-21852582.jpg&fm=jpg"
+      "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzFfM05mPzVK09soGQaSZL1cRpY_SrWji3YZUQ8AA8fON0IvXreh14Aiki4TC91OWgFhyhPm5i4fjB51usXfChvVGcCAVJ",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTa_rGkk_TsqVZfrsbwN2G42zJ6bCsIj4d8GmFm-CmBL_6ZR6_E-H7Ac3j03YRceZMCz6YYvOH5hw2zEFZFbGaqxIIvVXY-R_drM7sDi1SX",
+      "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7OpzIVAyF0S0SShLMQn1aGClMU_SyUiFVYWZwgT0W5oTf7B26N_cXANWjv_-eTHJUb2ZfvAnPWaG_K2Zdc35M5L-9gD6Y8ySQ2V_ILbnAkZtP_NKOhHfD"
     ],
     offers: [
       "Extra Rs. 500 off on prepaid orders",
@@ -456,9 +456,9 @@ export const products = [
     delivery: "Free delivery by tomorrow",
     inStock: true,
     images: [
-      "https://images.pexels.com/photos/6689393/pexels-photo-6689393.jpeg?cs=srgb&dl=pexels-janakukebal-6689393.jpg&fm=jpg",
-      "https://images.pexels.com/photos/6689393/pexels-photo-6689393.jpeg?cs=srgb&dl=pexels-janakukebal-6689393.jpg&fm=jpg",
-      "https://images.pexels.com/photos/6689393/pexels-photo-6689393.jpeg?cs=srgb&dl=pexels-janakukebal-6689393.jpg&fm=jpg"
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRBp52GK0WbZ_uWy8-x9SyDU_5yrDuX7ns02N3XMhb7VgvMd0Am4cJ-zkQSTQsSih5Rh25fdGyOeTLPFZx5lDUhVuH1qtMb",
+      "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTFMPXaJNxokk9nBvawEHE5ij59MKBvCky3l7AhPjxH-w7Qza9WoK8VYsIblfCLfv--MUGoBG0gquLlI2OP1Vls4QLKc8HzeJnk5G0zWUchcVUVyTo6f0rr9Oc",
+      "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQoXhVRKNLXGwF6Iwl_b57u3vndvay76FIybN-z1cUCT8g3vpPWniPo_D1P1k15sbl2ftX0lrSMyTPHzjb4hw3AVfd684kuqmMwjiMZ-Ts3TnS6JQVx4PAT1dc"
     ],
     offers: [
       "Buy more save more offer",
@@ -494,8 +494,8 @@ export const products = [
     inStock: true,
     images: [
       "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
-      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp",
-      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp",
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
     ],
     offers: [
       "Flat 10% off with beauty combo",
