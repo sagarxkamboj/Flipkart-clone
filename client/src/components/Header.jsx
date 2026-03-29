@@ -4,6 +4,10 @@ import { StoreContext } from "../context/StoreContext";
 
 export default function Header() {
   const { searchTerm, setSearchTerm, cartSummary, wishlistCount } = useContext(StoreContext);
+  const defaultUser = {
+    name: "Aman",
+    avatar: "A"
+  };
 
   return (
     <header className="site-header">
@@ -25,6 +29,10 @@ export default function Header() {
         </div>
 
         <nav className="header-nav">
+          <div className="user-pill" aria-label="Logged in user">
+            <span className="user-avatar">{defaultUser.avatar}</span>
+            <span className="user-name">{defaultUser.name}</span>
+          </div>
           <NavLink to="/" className="nav-link">
             Store
           </NavLink>
